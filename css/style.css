@@ -1,0 +1,33 @@
+h3 { color: #AAA;} 
+
+table { border-collapse: collapse;
+		margin: 10px;
+
+}
+
+
+.tableautitre { border: 2px solid black;}
+
+.cell { width:  400px;
+border: 1px solid black;
+}
+
+p {
+	margin: 5px	
+	
+}
+
+.Normal {color: #777;}
+.degrade {color:#999;}
+.dégradé {color:#444;}
+.1{color:#111;}
+
+.etatnormal {
+	background-color: #CC0000
+
+}
+
+
+.etatdegrade {
+	background-color: #33CC33
+}
